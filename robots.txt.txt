@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://mumerkk.github.io/seo-verbal-testtttttttt/sitemap.xml
